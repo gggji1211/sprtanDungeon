@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "스파르타 던전/1.0.0": {
+        "runtime": {
+          "스파르타 던전.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "스파르타 던전/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\스파르타 던전\bin\Debug\net8.0\스파르타 던전.exe
+C:\Users\USER\source\repos\스파르타 던전\bin\Debug\net8.0\스파르타 던전.deps.json
+C:\Users\USER\source\repos\스파르타 던전\bin\Debug\net8.0\스파르타 던전.runtimeconfig.json
+C:\Users\USER\source\repos\스파르타 던전\bin\Debug\net8.0\스파르타 던전.dll
+C:\Users\USER\source\repos\스파르타 던전\bin\Debug\net8.0\스파르타 던전.pdb
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\스파르타 던전.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\스파르타 던전.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\스파르타 던전.AssemblyInfo.cs
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\스파르타 던전.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\스파르타 던전.dll
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\refint\스파르타 던전.dll
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\스파르타 던전.pdb
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\스파르타 던전.genruntimeconfig.cache
+C:\Users\USER\source\repos\스파르타 던전\obj\Debug\net8.0\ref\스파르타 던전.dll
